@@ -1,7 +1,7 @@
 {
   "name": "firstcopy",
   "description": "A Hello World app",
-  "launch_path": "/src/index.js",
+  "launch_path": "/public/index.html",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
